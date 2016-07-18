@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-    	"abeautifulsite/simpleimage": "2.6.*",
+    	"abeautifulsite/simpleimage": "2.6.*"
     },
     "autoload": {
         "psr-4": {
