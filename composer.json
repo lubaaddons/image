@@ -8,12 +8,12 @@
         }
     ],
     "require": {
-    	
+    	"abeautifulsite/simpleimage": "2.6.*",
     },
     "autoload": {
-        "classmap": [
-            "src"
-        ]
+        "psr-4": {
+            "Luba\\": "src/"
+        }
     }
 }
 
