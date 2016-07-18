@@ -1,0 +1,19 @@
+{
+    "name": "lubaaddons/image",
+    "description": "Image Library for Luba",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Flo Stone"
+        }
+    ],
+    "require": {
+    	
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
+
