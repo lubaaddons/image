@@ -28,7 +28,7 @@ class Image
 	 * @param int $height
 	 * @param hex string $color
 	 */
-	public function new($width = NULL, $height = NULL, $color = NULL)
+	public function create($width = NULL, $height = NULL, $color = NULL)
 	{
 		return new SimpleImage(NULL, $width, $height, $color);
 	}
